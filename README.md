@@ -7,5 +7,6 @@
 
     pip install pymongo
 
+<hr>
 <h4>You can read, write, patch and delete directly with your local server or hosted one</h4>
 <h6>Thank You For Visiting</h6>
